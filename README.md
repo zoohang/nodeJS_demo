@@ -48,9 +48,9 @@ if(cloudServices){
 exports.secret = "snode";
 // email 配置
 exports.email = {
-      user:     "q596392912"
-    , password: "6693722"
-    , host:     "smtp.126.com"
+      user:     "136927705"
+    , password: "zuo15802346441."
+    , host:     "smtp.qq.com"
     , ssl:      true
 }
 ```

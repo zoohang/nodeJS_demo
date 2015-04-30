@@ -11,7 +11,7 @@ var server  = email.server.connect(config.email);
 
 var message = {
     text:    "i hope this works",
-    from:    "q596392912@126.com",
+    from:    "136927705@qq.com",
     to:      "596392912@qq.com",
 //    cc:      "else@gmail.com",
     subject: "testing emailjs",
