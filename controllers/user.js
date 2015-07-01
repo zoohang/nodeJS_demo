@@ -9,7 +9,7 @@ exports.list = function(req, res) {
         if(error){
             res.render('error', {title: 'error'});
         }else{
-            res.render('user', {'error': json, title: 'helloo'});
+            res.render('user', {'error': json, title: 'hello'});
         }
     });
 };
